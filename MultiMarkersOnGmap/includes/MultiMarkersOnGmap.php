@@ -19,7 +19,7 @@ private static $icon = 'dashicons-location';
 private static $version = '1.0.0';
 private static $s = ['result'=>'ERROR', 'msg'=>'Error code 3001'];
 private static $scripts = [
-	['type'=>'remote', 'src'=>'https://maps.googleapis.com/maps/api/js'], //?key=AIzaSyACGrIXgrG9ZkCbA83cIGlcuShFURGyANA
+	['type'=>'remote', 'src'=>'https://maps.googleapis.com/maps/api/js'],
 	['type'=>'local', 'src'=>'scripts.js']
 ];
 private static $adminScripts = [
