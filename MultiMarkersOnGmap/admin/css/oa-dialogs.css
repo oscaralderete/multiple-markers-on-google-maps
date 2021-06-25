@@ -1,0 +1,5 @@
+/*!
+@author:Oscar Alderete <wordpress@oscaralderete.com>
+@website: https://oscaralderete.com
+@editor:NetBeans IDE v11.2
+*/.oa-modal{position:fixed;display:flex;z-index:100050;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,0.5);justify-content:center;flex-direction:row;visibility:hidden;opacity:0;transform:scale(0, 0);transition:all 0.15s ease-out}.oa-modal.active{visibility:visible;opacity:1;transform:scale(1, 1)}.oa-modal>div{background-color:#252525;color:#fff;align-self:center;padding:1rem;border-radius:0.4rem;box-shadow:0 0 0.4rem #222;font-family:Arial, Helvetica, sans-serif;font-size:1rem}.oa-modal>div>header{text-align:left;font-weight:700}.oa-modal>div>main{margin:1rem 0;max-width:320px;text-align:left}.oa-modal>div>footer{display:flex;flex-direction:row-reverse}.oa-modal>div>footer>button{margin-left:0.5rem;border:none;background-color:transparent;color:#fff;cursor:pointer;font-family:Arial, Helvetica, sans-serif;font-size:1rem;border-radius:0.4rem;transition:color 0.4s;font-weight:700}.oa-modal>div>footer>button:hover{color:#aaa}.oa-modal>div>footer>button:disabled{display:none}

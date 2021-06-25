@@ -1,0 +1,5 @@
+/*!
+@author:Oscar Alderete <wordpress@oscaralderete.com>
+@website: https://oscaralderete.com
+@editor:NetBeans IDE v11.2
+*/#loader{position:fixed;top:0;left:0;right:0;bottom:0;background-color:rgba(255,255,255,0.5);text-align:center;z-index:100100;display:none}#loader.active{display:block}#loader>svg{margin-top:5em;width:5em;height:auto;-webkit-filter:drop-shadow(0 0 2px rgba(0,0,0,0.7));filter:drop-shadow(0 0 2px rgba(0,0,0,0.7))}
