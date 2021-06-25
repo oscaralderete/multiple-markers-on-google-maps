@@ -5,6 +5,6 @@ You only need a valid Google Maps API key, actually the map will be functional w
 
 The plugin gets its own settings page inside WP admin zone (that runs seamlessly thanks to Vue 3) where you can define all markers you want, the height of your map and the Google Maps API key.
 
-Place the next shortcode [MultiMarkersOnGmap] on everywhere you want to display your map, that's all.
+Place the next shortcode [MultiMarkersOnGmap] everywhere you want to display your map, that's all.
 
 Enjoy it!
